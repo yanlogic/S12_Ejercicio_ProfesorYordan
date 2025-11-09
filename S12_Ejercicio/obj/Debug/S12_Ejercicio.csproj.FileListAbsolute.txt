@@ -1,0 +1,7 @@
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\bin\Debug\S12_Ejercicio.exe.config
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\bin\Debug\S12_Ejercicio.exe
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\bin\Debug\S12_Ejercicio.pdb
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\obj\Debug\S12_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\obj\Debug\S12_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\obj\Debug\S12_Ejercicio.exe
+C:\Users\yannw\Downloads\Pedo caca pis\Datos\S12_Ejercicio\obj\Debug\S12_Ejercicio.pdb
